@@ -1,0 +1,23 @@
+{
+  "name": "rest-api-project",
+  "version": "1.0.0",
+  "description": "A project with rest api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aashish079/REST-API-Project.git"
+  },
+  "author": "Aashish Karki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aashish079/REST-API-Project/issues"
+  },
+  "homepage": "https://github.com/Aashish079/REST-API-Project#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.1.0"
+  }
+}
